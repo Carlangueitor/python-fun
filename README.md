@@ -9,3 +9,9 @@ Para ver la presentación solo abre el archivo `index.html` en tu navegador.
 
 * Agregar .gitignore
 * Organizar estáticos
+
+
+Créditos de las fotos:
+
+1.- http://startupstockphotos.com/
+2.- https://www.flickr.com/photos/kmonojo/313226781/sizes/o/
